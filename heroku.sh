@@ -7,4 +7,4 @@
 #npm install cordova --verbose >&2
 
 echo "Serving with --lab --port 80 --nolivereload"
-ionic serve --lab --port 80 --nolivereload --nogulp >&2
+ionic serve --lab --port 1024 --nolivereload --nogulp >&2

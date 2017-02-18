@@ -6,5 +6,5 @@
 #echo "Installing Cordova"
 #npm install cordova --verbose >&2
 
-echo "Serving with --lab"
+echo "Serving with --lab --port 80 --nolivereload"
 ionic serve --lab >&2
